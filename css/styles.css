@@ -1,0 +1,103 @@
+body{
+  background-color: #EDF6E5;
+  margin: 0;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+  font-size:20px;
+}
+
+h1{
+  margin-top: 0;
+ font-family: 'Pacifico', cursive;
+ color:#E05D5D;
+}
+
+h2{
+  font-family: 'Playfair Display', serif;
+  color: #E05D5D;
+}
+h3{
+  font-family: 'Playfair Display', serif;
+  color: #E05D5D;
+}
+
+
+.top-container
+{
+  background: #79B4B7;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container
+{
+  width: 75%;
+  position: relative;
+  margin-left: 120px;
+}
+table,tr,td{
+  position: relative;
+  margin-left: 320px;
+  padding: 20px;
+  text-align: center;
+  border:2px solid #F38BA0 ;
+  border-collapse: collapse;
+}
+.cloudone{
+  position: absolute;
+  right:1000px;
+  top: 20px;
+}
+.cloudtwo{
+  position: relative;
+  left:300px;
+  bottom:10px;
+}
+
+.profile{
+  position: relative;
+  top: 20px;
+
+}
+.skillbox
+{
+  background-color: #79B4B7;
+  width: 30%;
+  border: 2px solid #F38BA0 ;
+  position: relative;
+  margin-top: 50px;
+  margin-left: 100px;
+  font-family: 'Playfair Display', serif;
+
+
+}
+.hobbybox{
+  background-color: #79B4B7;
+  width: 30%;
+  border: 2px solid #F38BA0;
+  font-family: 'Playfair Display', serif;
+  position: relative;
+  margin-left: 900px;
+
+}
+.mail {
+  background-color: #79B4B7;
+  font-family: 'Pacifico', cursive;
+  padding: 5px;
+  position: relative;
+  margin-left:50;
+  width: 100%;
+
+}
+.number{
+  background-color: #79B4B7;
+  font-family: 'Pacifico', cursive;
+  padding: 5px;
+  position: relative;
+  margin-left:500px;
+  width: 30%;
+}
+
+.end{
+    padding-bottom: 100px;
+    background-color: #EDF6E5;
+}
